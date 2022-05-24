@@ -1,0 +1,3 @@
+padding寫在a連結裡增加點擊範圍
+要加display:block
+hover不要連a
